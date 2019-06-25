@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="20" viewBox="0 0 20 20">
+  <defs>
+    <clipPath id="clip-path">
+      <path id="Caminho_66" data-name="Caminho 66" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" transform="translate(1671 266)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Grupo_de_máscara_2" data-name="Grupo de máscara 2" transform="translate(-1671 -266)" clip-path="url(#clip-path)">
+    <rect id="Retângulo_69" data-name="Retângulo 69" width="4.156" height="20.785" transform="translate(1691.426 265.641) rotate(90)" fill="#b3b3b3"/>
+    <rect id="Retângulo_70" data-name="Retângulo 70" width="4.156" height="20.785" transform="translate(1691.426 269.796) rotate(90)" fill="#c6c6c6"/>
+    <rect id="Retângulo_71" data-name="Retângulo 71" width="4.156" height="20.785" transform="translate(1691.426 273.952) rotate(90)" fill="#fff"/>
+    <rect id="Retângulo_72" data-name="Retângulo 72" width="4.156" height="20.785" transform="translate(1691.426 278.107) rotate(90)" fill="#c6c6c6"/>
+    <rect id="Retângulo_73" data-name="Retângulo 73" width="4.156" height="20.785" transform="translate(1691.426 282.263) rotate(90)" fill="#b3b3b3"/>
+  </g>
+</svg>
